@@ -1,27 +1,19 @@
-Oasis Infobyte Internship
+# DailyDo Pro
 
-Domain: Web Development
+A responsive productivity dashboard for daily task management — helping users organize, prioritize, and track their goals.
 
-Task 6 – To-Do Web App
+## 🔗 Live Demo
+[View Live Site](https://ronakmalani05.github.io/dailydo-pro/dailydo-pro.html)
 
-Objective:
-To create a Daily Task / To-Do web application using HTML, CSS and JavaScript.
+## ✨ Features
+- Task creation with priority levels (High / Medium / Low)
+- Category tagging (Work, Personal, Health, Study, Finance)
+- Daily goal tracking with completion percentage
+- Visual activity heatmap and day-streak tracker
+- Task history filtering (1 Week / 1 Month / 3 Months / All Time)
 
-Tools Used:
-HTML
-CSS
-JavaScript
+## 🛠️ Tech Stack
+HTML5, CSS3, JavaScript
 
-Description:
-This project is a To-Do / Daily Task web application developed as part of the Oasis Infobyte Internship.
-The user can add tasks, delete tasks and manage daily activities.
-JavaScript is used for functionality and CSS is used for styling.
-
-Features:
-Add task
-Delete task
-Task list
-Simple UI
-
-Result:
-Project completed successfully.
+## 📌 About
+Built as a front-end project to practice interactive dashboards, data visualization, and local state management.
